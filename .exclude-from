@@ -1,0 +1,6 @@
+.git
+deploy.sh
+.exclude-from
+.gitmodules
+composer.json
+composer.lock
