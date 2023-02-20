@@ -208,7 +208,7 @@ function render_table() {
 
 		<footer>
 			<p>
-				This page is <a href="https://github.com/benlk/gifs.benlk.com">powered by open-source software.</a>
+				This page is <a href="https://github.com/benlk/nlac-zoning-index">powered by open-source software.</a>
 			</p>
 		</footer>
 	</body>
