@@ -156,7 +156,7 @@ function render_table() {
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Gifs page</title>
+		<title>Zoning Report List Page</title>
 		<style type="text/css">
 			* {
 				box-sizing: border-box;
@@ -200,7 +200,8 @@ function render_table() {
 		</style>
 	</head>
 	<body>
-		<h1>Gifs page</h1>
+		<h1>North Linden Area Commission Zoning Reports</h1>
+		<p>A list of zoning reports prepared by Ben Keith for the <a href="https://cbusareacommissions.org/north-linden/">North Linden Area Commission</a>'s zoning committee.</p>
 
 		<?php
 			render_table();
