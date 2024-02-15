@@ -202,7 +202,7 @@ function render_table() {
 	<body>
 		<h1>North Linden Area Commission Zoning Reports</h1>
 		<p>A list of zoning reports prepared by Ben Keith for the <a href="https://cbusareacommissions.org/north-linden/">North Linden Area Commission</a>'s zoning committee.</p>
-		<p>Beginning in September 2023, agendas for meetings are posted to the <a href="https://mailchi.mp/d9c55f17b147/north-linden-zoning-committee-september-meeting-agenda-12652808?e=788427c9a5">zoning committee newsletter</a>.</p>
+		<p>Beginning in September 2023, agendas for meetings are posted to the <a href="https://us21.campaign-archive.com/home/?u=330bc1a667408c7b6f03e46bb&id=b4deb59789">zoning committee newsletter</a>.</p>
 
 		<?php
 			render_table();
