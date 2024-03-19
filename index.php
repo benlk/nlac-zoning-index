@@ -17,7 +17,7 @@ use Cocur\Slugify\Slugify;
  * Return an array of files matching specific types in this directory
  */
 function get_files() {
-	return glob( "*.{pdf}", GLOB_BRACE );
+	return array_reverse( glob( "*.{pdf}", GLOB_BRACE ) );
 }
 
 /**
